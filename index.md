@@ -1,5 +1,5 @@
 ---
-title: Notes from a software engineer
+title: Notes from a Software Engineer
 ---
 
 Welcome to my dev blog.
